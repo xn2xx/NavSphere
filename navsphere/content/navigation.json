@@ -154,9 +154,9 @@
             {
               "id": "site_1754966856501_5yln6n7bl",
               "title": "Qwen",
-              "href": "https://qwen.ai/",
+              "href": "https://qwen.ai",
               "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-              "icon": "/assets/favicon_1754966847126.ico",
+              "icon": "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.16/favicon.ico",
               "enabled": true
             }
           ]
