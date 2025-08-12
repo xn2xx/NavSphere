@@ -150,6 +150,14 @@
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754966856501_5yln6n7bl",
+              "title": "Qwen",
+              "href": "https://qwen.ai/",
+              "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+              "icon": "/assets/favicon_1754966847126.ico",
+              "enabled": true
             }
           ]
         },
